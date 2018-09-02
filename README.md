@@ -7,5 +7,8 @@ Pete Scandlon of Pete's Pet Shop is interested in using Ethereum as an efficient
 ## Preview >> Future Puppy Love App
 <img src="https://github.com/jayceazua/Pet-Shop-Smart-Contracts/blob/master/dapp.png" width="850" height="500">
 
+#### MetaMask > Smart Contract Confirmation
+<img src="https://github.com/jayceazua/Pet-Shop-Smart-Contracts/blob/master/metamask-transactionconfirm.png">
+
 ### Start the local web server:
  ``` npm run dev ```
