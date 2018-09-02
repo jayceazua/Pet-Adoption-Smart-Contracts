@@ -1,6 +1,6 @@
 # Pet-Shop-Smart-Contracts
 
-<img src="https://github.com/jayceazua/Pet-Shop-Smart-Contracts/blob/master/petshop%202.png" width="100" height="100">
+<img src="https://github.com/jayceazua/Pet-Shop-Smart-Contracts/blob/master/petshop%202.png" width="500" height="500">
 
 Pete Scandlon of Pete's Pet Shop is interested in using Ethereum as an efficient way to handle their pet adoptions. The store has space for 16 pets at a given time, and they already have a database of pets. As an initial proof of concept, Pete wants to see a dapp which associates an Ethereum address with a pet to be adopted.
 
