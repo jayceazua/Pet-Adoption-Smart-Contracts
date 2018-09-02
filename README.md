@@ -4,8 +4,8 @@
 
 Pete Scandlon of Pete's Pet Shop is interested in using Ethereum as an efficient way to handle their pet adoptions. The store has space for 16 pets at a given time, and they already have a database of pets. As an initial proof of concept, Pete wants to see a dapp which associates an Ethereum address with a pet to be adopted.
 
-## Truffle Tutorial
-[Blockchain Smart Contacts - Pet Shop](https://www.truffleframework.com/tutorials/pet-shop)
+## Preview >> Future Puppy Love App
+<img src="https://github.com/jayceazua/Pet-Shop-Smart-Contracts/blob/master/dapp.png" width="650" height="250">
 
-## Start the local web server:
+### Start the local web server:
  ``` npm run dev ```
