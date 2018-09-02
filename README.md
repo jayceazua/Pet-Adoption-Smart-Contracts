@@ -1,5 +1,4 @@
-Inline-style:
-![alt text](https://github.com/jayceazua/Pet-Shop-Smart-Contracts")
+![alt text](https://github.com/jayceazua/Pet-Shop-Smart-Contracts/blob/master/petshop%202.png)
 
 
 # Pet-Shop-Smart-Contracts
